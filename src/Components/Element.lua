@@ -15,6 +15,7 @@ return function(Title, Desc, Parent, Hover)
 		TextSize = 13,
 		TextXAlignment = Enum.TextXAlignment.Left,
 		Size = UDim2.new(1, 0, 0, 14),
+		AutoLocalize = false,
 		BackgroundColor3 = Color3.fromRGB(255, 255, 255),
 		BackgroundTransparency = 1,
 		ThemeTag = {
@@ -33,6 +34,7 @@ return function(Title, Desc, Parent, Hover)
 		AutomaticSize = Enum.AutomaticSize.Y,
 		BackgroundTransparency = 1,
 		Size = UDim2.new(1, 0, 0, 14),
+		AutoLocalize = false,
 		ThemeTag = {
 			TextColor3 = "SubText",
 		},
