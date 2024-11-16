@@ -34,6 +34,7 @@ return function(Title, Parent)
 			TextYAlignment = "Center",
 			Size = UDim2.new(1, -16, 0, 18),
 			Position = UDim2.fromOffset(0, 2),
+			AutoLocalize = false,
 			ThemeTag = {
 				TextColor3 = "Text",
 			},
