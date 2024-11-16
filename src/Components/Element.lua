@@ -74,6 +74,7 @@ return function(Title, Desc, Parent, Hover)
 		BackgroundColor3 = Color3.fromRGB(130, 130, 130),
 		Parent = Parent,
 		AutomaticSize = Enum.AutomaticSize.Y,
+		AutoLocalize = false,
 		Text = "",
 		LayoutOrder = 7,
 		ThemeTag = {
