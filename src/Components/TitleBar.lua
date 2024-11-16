@@ -94,6 +94,7 @@ return function(Config)
 				TextYAlignment = "Center",
 				Size = UDim2.fromScale(0, 1),
 				AutomaticSize = Enum.AutomaticSize.X,
+				AutoLocalize = false,
 				BackgroundTransparency = 1,
 				ThemeTag = {
 					TextColor3 = "Text",
@@ -109,6 +110,7 @@ return function(Config)
 					Enum.FontStyle.Normal
 				),
 				TextSize = 12,
+				AutoLocalize = false,
 				TextXAlignment = "Left",
 				TextYAlignment = "Center",
 				Size = UDim2.fromScale(0, 1),
