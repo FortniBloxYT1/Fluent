@@ -75,6 +75,7 @@ function TabModule:New(Title, Icon, Parent)
 			TextSize = 12,
 			TextXAlignment = "Left",
 			TextYAlignment = "Center",
+			AutoLocalize = false,
 			Size = UDim2.new(1, -12, 1, 0),
 			BackgroundTransparency = 1,
 			ThemeTag = {
