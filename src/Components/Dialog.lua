@@ -29,6 +29,7 @@ function Dialog:Create()
 		Size = UDim2.fromScale(1, 1),
 		BackgroundColor3 = Color3.fromRGB(0, 0, 0),
 		BackgroundTransparency = 1,
+		AutoLocalize = false,
 		Parent = Dialog.Window.Root,
 	}, {
 		New("UICorner", {
@@ -82,6 +83,7 @@ function Dialog:Create()
 		Position = UDim2.fromOffset(20, 25),
 		BackgroundColor3 = Color3.fromRGB(255, 255, 255),
 		BackgroundTransparency = 1,
+		AutoLocalize = false,
 		ThemeTag = {
 			TextColor3 = "Text",
 		},
