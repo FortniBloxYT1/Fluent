@@ -23,6 +23,7 @@ return function(Config)
 			Parent = Parent,
 			Position = Pos,
 			Text = "",
+			AutoLocalize = false,
 			ThemeTag = {
 				BackgroundColor3 = "Text",
 			},
