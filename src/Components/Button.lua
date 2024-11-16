@@ -19,6 +19,7 @@ return function(Theme, Parent, DialogCheck)
 		BackgroundColor3 = Color3.fromRGB(255, 255, 255),
 		AutomaticSize = Enum.AutomaticSize.Y,
 		BackgroundTransparency = 1,
+		AutoLocalize = false,
 		Size = UDim2.fromScale(1, 1),
 		ThemeTag = {
 			TextColor3 = "Text",
