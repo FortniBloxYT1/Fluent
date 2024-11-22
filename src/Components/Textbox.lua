@@ -19,6 +19,7 @@ return function(Parent, Acrylic)
 		BackgroundTransparency = 1,
 		Size = UDim2.fromScale(1, 1),
 		Position = UDim2.fromOffset(10, 0),
+		AutoLocalize = false,
 		ThemeTag = {
 			TextColor3 = "Text",
 			PlaceholderColor3 = "SubText",
