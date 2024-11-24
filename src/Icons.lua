@@ -662,7 +662,7 @@ return {
 		["lucide-server-cog"] = "rbxassetid://10734944444",
 		["lucide-server-crash"] = "rbxassetid://10734944554",
 		["lucide-server-off"] = "rbxassetid://10734944668",
-		["lucide-settings"] = "rbxassetid://10734950309",
+		["lucide-settings"] = "http://www.roblox.com/asset/?id=70557615909177",
 		["lucide-settings-2"] = "rbxassetid://10734950020",
 		["lucide-share"] = "rbxassetid://10734950813",
 		["lucide-share-2"] = "rbxassetid://10734950553",
