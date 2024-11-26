@@ -82,16 +82,6 @@ function TabModule:New(Title, Icon, Parent)
 				TextColor3 = "Text",
 			},
 		}),
-		New("ImageLabel", {
-			AnchorPoint = Vector2.new(0, 0.5),
-			Size = UDim2.fromOffset(16, 16),
-			Position = UDim2.new(0, 8, 0.5, 0),
-			BackgroundTransparency = 1,
-			Image = Icon and Icon or nil,
-			ThemeTag = {
-				ImageColor3 = "Text",
-			},
-		}),
 	})
 
 	local ContainerLayout = New("UIListLayout", {
