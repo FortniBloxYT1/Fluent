@@ -438,7 +438,7 @@ return {
 		["lucide-hexagon"] = "rbxassetid://10723407092",
 		["lucide-highlighter"] = "rbxassetid://10723407192",
 		["lucide-history"] = "rbxassetid://10723407335",
-		["lucide-home"] = "http://www.roblox.com/asset/?id=115087860726585",
+		["lucide-home"] = "http://www.roblox.com/asset/?id=125149864756028",
 		["lucide-hourglass"] = "rbxassetid://10723407498",
 		["lucide-ice-cream"] = "rbxassetid://10723414308",
 		["lucide-image"] = "rbxassetid://10723415040",
