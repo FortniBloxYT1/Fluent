@@ -279,7 +279,7 @@ return {
 		["lucide-euro"] = "rbxassetid://10723346372",
 		["lucide-expand"] = "rbxassetid://10723346553",
 		["lucide-external-link"] = "rbxassetid://10723346684",
-		["lucide-eye"] = "rbxassetid://10723346959",
+		["lucide-eye"] = "rbxassetid://12469742251",
 		["lucide-eye-off"] = "rbxassetid://10723346871",
 		["lucide-factory"] = "rbxassetid://10723347051",
 		["lucide-fan"] = "rbxassetid://10723354359",
